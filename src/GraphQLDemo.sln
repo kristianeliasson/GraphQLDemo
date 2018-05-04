@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLDemo", "GraphQLDemo\GraphQLDemo.csproj", "{D08341C2-6B01-465B-9200-140C0C554087}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLDemo.GraphQL", "GraphQLDemo.GraphQL\GraphQLDemo.GraphQL.csproj", "{12EDE08B-C9DF-41EB-90DB-ECC03DEE0570}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLDemo.Model", "GraphQLDemo.Model\GraphQLDemo.Model.csproj", "{D7DD9AEE-287D-49CA-91BF-EBAEE00202EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08341C2-6B01-465B-9200-140C0C554087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08341C2-6B01-465B-9200-140C0C554087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08341C2-6B01-465B-9200-140C0C554087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08341C2-6B01-465B-9200-140C0C554087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EDE08B-C9DF-41EB-90DB-ECC03DEE0570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EDE08B-C9DF-41EB-90DB-ECC03DEE0570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EDE08B-C9DF-41EB-90DB-ECC03DEE0570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EDE08B-C9DF-41EB-90DB-ECC03DEE0570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DD9AEE-287D-49CA-91BF-EBAEE00202EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DD9AEE-287D-49CA-91BF-EBAEE00202EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DD9AEE-287D-49CA-91BF-EBAEE00202EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DD9AEE-287D-49CA-91BF-EBAEE00202EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC0F386-28A5-48A7-9F74-24B8A9A77741}
+	EndGlobalSection
+EndGlobal
